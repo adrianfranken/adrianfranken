@@ -1,0 +1,7 @@
+@media (max-width: 650px) { body { min-width: 'initial' } }
+            @media (min-width: 651px) { body { min-width: 1180px } }
+                        .bodyBackground {
+                            
+background-image:none;
+background-color:rgba(247,247,247,1);
+                        }
